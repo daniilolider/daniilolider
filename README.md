@@ -1,6 +1,6 @@
 # Hello! My name is Daniil! 👋
 
-<img src="https://twam.ru/wp-content/uploads/2024/03/krasivaia-priroda-7.webp" alt="Working in Nature" width="600"/>
+<img src="https://downloader.disk.yandex.ru/preview/5d982bdafb009ecff06b7eafa49b70f6f285b3bf0940c817392b43cee2ca7c28/6711af30/0HfYYd8HGozVbsCXbOAFHWa9cq9wTMyYmCgNfyV-qCcp64bP7wqGWny13psssNdvoh-zL4dZZiMkmW1GIVfFbA%3D%3D?uid=0&filename=DALL%C2%B7E%202024-10-17%2023.40.10%20-%20A%20serene%20landscape%20with%20a%20waterfall%20flowing%20over%20rocky%20terrain%2C%20surrounded%20by%20tall%20evergreen%20trees.%20The%20scene%20is%20set%20during%20a%20dramatic%20sunset%20with%20vib.webp&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048" alt="Working in Nature" width="600"/>
 
 I am a third-year student at the Belarusian-Russian University, majoring in **Applied Mathematics**. I have a strong foundation in mathematics and programming and enjoy solving complex problems. I have experience working on small projects in **Python**, **machine learning**, and **data science**. I'm actively developing my skills and looking for opportunities to apply them in real-world tasks.
 
@@ -33,5 +33,3 @@ I am a third-year student at the Belarusian-Russian University, majoring in **Ap
 
 💼 **I'm open to work opportunities!**  
 Feel free to reach out to me for collaboration or job offers. You can view my **[CV here](https://disk.yandex.ru/i/z6UM8gOYxHzZqQ)**.
-
----
