@@ -1,6 +1,6 @@
 # Hello! My name is Daniil! 👋
 
-![Working in Nature](https://twam.ru/wp-content/uploads/2024/03/krasivaia-priroda-7.webp)
+<img src="https://twam.ru/wp-content/uploads/2024/03/krasivaia-priroda-7.webp" alt="Working in Nature" width="600"/>
 
 I am a third-year student at the Belarusian-Russian University, majoring in **Applied Mathematics**. I have a strong foundation in mathematics and programming and enjoy solving complex problems. I have experience working on small projects in **Python**, **machine learning**, and **data science**. I'm actively developing my skills and looking for opportunities to apply them in real-world tasks.
 
