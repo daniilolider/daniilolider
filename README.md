@@ -34,6 +34,9 @@ I am a third-year student at the Belarusian-Russian University, majoring in **Ap
   <a href="https://linkedin.com/in/daniilbadret">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/daniilolider">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
   <a href="https://vk.com/daniilbadret">
     <img src="https://img.shields.io/badge/-VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" />
   </a>
