@@ -45,4 +45,4 @@ I am a third-year student at the Belarusian-Russian University, majoring in **Ap
 ---
 
 💼 **I'm open to work opportunities!**  
-Feel free to reach out to me for collaboration or job offers. You can view my **[CV here](https://disk.yandex.ru/i/hID9htUEDaPU4w)**.
+Feel free to reach out to me for collaboration or job offers. You can view my **[CV here](https://disk.yandex.ru/i/XBE2GAAlNghMyA)**.
